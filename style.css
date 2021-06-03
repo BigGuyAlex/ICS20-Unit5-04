@@ -1,0 +1,90 @@
+#head-text {
+  text-align: center;
+  font-family: "verdana", sans-serif;
+}
+
+#main-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#text-button {
+  display: block;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  background-color: cornflowerblue;
+  padding: 7px;
+  color: white;
+  transition-duration: 0.4s;
+}
+
+#text-button:hover {
+  background-color: yellowgreen;
+}
+
+#background-button {
+  display: block;
+  font-size: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  background-color: teal;
+  padding: 7px;
+  color: white;
+  transition-duration: 0.6s;
+}
+
+#background-button:hover {
+  background-color: turquoise;
+}
+
+#picture-button {
+  display: block;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  background-color: cornflowerblue;
+  padding: 7px;
+  color: white;
+  transition-duration: 0.6s;
+}
+
+#picture-button:hover {
+  background-color: yellowgreen;
+}
+
+#text-hide {
+  display: block;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  background-color: cornflowerblue;
+  padding: 7px;
+  color: white;
+  transition-duration: 0.4s;
+}
+
+#text-hide:hover {
+  background-color: yellowgreen;
+}
+
+#text-show {
+  display: block;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid black;
+  background-color: cornflowerblue;
+  padding: 7px;
+  color: white;
+  transition-duration: 0.4s;
+}
+
+#text-show:hover {
+  background-color: yellowgreen;
+}
