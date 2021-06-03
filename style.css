@@ -11,18 +11,18 @@
 
 #text-button {
   display: block;
-  font-size: 20px;
+  font-size: 15px;
   margin-left: auto;
   margin-right: auto;
   border: 2px solid black;
-  background-color: cornflowerblue;
+  background-color: teal;
   padding: 7px;
   color: white;
   transition-duration: 0.4s;
 }
 
 #text-button:hover {
-  background-color: yellowgreen;
+  background-color: turquoise;
 }
 
 #background-button {
@@ -43,48 +43,48 @@
 
 #picture-button {
   display: block;
-  font-size: 20px;
+  font-size: 15px;
   margin-left: auto;
   margin-right: auto;
   border: 2px solid black;
-  background-color: cornflowerblue;
+  background-color: teal;
   padding: 7px;
   color: white;
   transition-duration: 0.6s;
 }
 
 #picture-button:hover {
-  background-color: yellowgreen;
+  background-color: turquoise;
 }
 
 #text-hide {
   display: block;
-  font-size: 20px;
+  font-size: 15px;
   margin-left: auto;
   margin-right: auto;
   border: 2px solid black;
-  background-color: cornflowerblue;
+  background-color: teal;
   padding: 7px;
   color: white;
-  transition-duration: 0.4s;
+  transition-duration: 0.6s;
 }
 
 #text-hide:hover {
-  background-color: yellowgreen;
+  background-color: turquoise;
 }
 
 #text-show {
   display: block;
-  font-size: 20px;
+  font-size: 15px;
   margin-left: auto;
   margin-right: auto;
   border: 2px solid black;
-  background-color: cornflowerblue;
+  background-color: teal;
   padding: 7px;
   color: white;
-  transition-duration: 0.4s;
+  transition-duration: 0.6s;
 }
 
 #text-show:hover {
-  background-color: yellowgreen;
+  background-color: turquoise;
 }
